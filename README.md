@@ -1,7 +1,7 @@
 # policy
 
 Privacy Policy
-Creaitivity Ltd built the Turbo Racer (Retro Racing) app as an Ad Supported app. This SERVICE is provided by Creaitivity Ltd at no cost and is intended for use as is.
+Creaitivity Ltd built this instant game as an Ad Supported app. This SERVICE is provided by Creaitivity Ltd at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
